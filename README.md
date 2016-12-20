@@ -1,5 +1,4 @@
 # FindingNemo
-<h1>FindingNemo</h1>
 
 <h1>Authors</h1>
 <ul>
