@@ -4,5 +4,5 @@
 <ul>
 <li>Leo Leladze</li>
 <li>Oleg Bondarev</li>
-<li>Dmitrii Tebi</li>
+<li>Dmitriy Tebi</li>
 <ul>
